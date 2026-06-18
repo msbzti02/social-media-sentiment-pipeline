@@ -26,6 +26,32 @@ The final output is presented through an interactive **Streamlit Dashboard** tha
 
 ---
 
+## 🎯 Goals & Achievements
+
+| Goal | Achievement / Result |
+| :--- | :--- |
+| **Real-time Streaming** | Successfully simulated high-throughput Twitter/Reddit data ingestion using **Apache Kafka**. |
+| **Robust Data Storage** | Implemented **MongoDB** to persist both raw and processed data seamlessly. |
+| **Advanced NLP** | Extracted meaningful features using TF-IDF and **VADER** sentiment scoring. |
+| **Deep Learning** | Achieved high accuracy classification using **BiLSTM** and fine-tuned **BERT** models. |
+| **Big Data Processing** | Leveraged **PySpark** for distributed EDA and MLlib model training. |
+| **Interactive Visualization** | Developed a real-time **Streamlit** dashboard for model tracking and comparison. |
+
+---
+
+## 🌟 What We Do & Project Benefits
+
+### What We Do
+We build an end-to-end data engineering and machine learning pipeline that automatically ingests social media data, cleans the text, analyzes the underlying sentiment, and visualizes the insights.
+
+### Benefits of the Project
+- **Market Intelligence:** Helps brands and researchers monitor public perception in real-time.
+- **Scalability:** The architecture (Kafka + Spark + MongoDB) is designed to handle millions of records efficiently.
+- **Model Comparison:** Provides a framework to easily test and compare traditional ML models against state-of-the-art Deep Learning models (BERT, BiLSTM).
+- **Actionable Insights:** Translates raw social media noise into structured, visual dashboards for decision-makers.
+
+---
+
 ## ✨ Key Features
 
 - **🚀 Automated Orchestration:** A centralized `run_pipeline.py` script to seamlessly trigger data loading, EDA, and preprocessing stages.
