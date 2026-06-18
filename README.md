@@ -12,7 +12,7 @@
 
 An end-to-end Big Data and Artificial Intelligence pipeline designed to ingest, process, and classify sentiment from social media streams (Twitter and Reddit) using advanced Machine Learning and Deep Learning architectures.
 
-**Author:** Mohammed Badawi
+**Author:** MOURAD SLEEM
 
 </div>
 
@@ -93,7 +93,7 @@ We build an end-to-end data engineering and machine learning pipeline that autom
 ## 📂 Project Structure
 
 ```text
-mohammed_SP_1/
+Social_media_sentiment/
 ├── config.py                   # Global configuration, paths, and hyperparameters
 ├── requirements.txt            # Project dependencies
 ├── run_pipeline.py             # Main orchestrator for initial pipeline stages
@@ -205,15 +205,6 @@ SPARK_MASTER=local[*]
 
 ---
 
-## 📸 Screenshots
-
-*(Placeholders for project screenshots)*
-
-| Dashboard Overview | Model Evaluation Radar |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/400x250?text=Streamlit+Dashboard" alt="Dashboard"/> | <img src="https://via.placeholder.com/400x250?text=Model+Comparison" alt="Evaluation"/> |
-
----
 
 ## 🔧 Troubleshooting
 
@@ -235,7 +226,7 @@ SPARK_MASTER=local[*]
 
 ## 🤝 Contributors
 
-- **Mohammed Badawi** - *Lead Data Engineer & ML Developer*
+- **Mourad sleem** - *Lead Data Engineer & ML Developer*
 
 Contributions are welcome! Please open an issue or submit a Pull Request.
 
